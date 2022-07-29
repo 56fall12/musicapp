@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682192440572",
+    "project_id": "msuci-thingy",
+    "storage_bucket": "msuci-thingy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682192440572:android:b8b0acfc0ee459234c9b79",
+        "android_client_info": {
+          "package_name": "com.example.musicproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682192440572-mg82mvae70fvs8rjv2ke6o8sesfp8q48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCLLSbxIxKy94CFxxgh-fG7mTxJdyBJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682192440572-mg82mvae70fvs8rjv2ke6o8sesfp8q48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
